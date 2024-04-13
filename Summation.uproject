@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "TDxUnrealEditor",
-			"Enabled": true
-		},
-		{
 			"Name": "CommonUI",
 			"Enabled": true
 		}
